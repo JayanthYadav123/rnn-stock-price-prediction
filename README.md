@@ -5,6 +5,9 @@
 To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
+
+Developing an RNN model for stock price prediction involves leveraging historical market data to capture temporal dependencies. The goal is to design an LSTM or GRU-based architecture capable of learning sequential patterns in stock prices for accurate forecasting. 
+
 <img width="407" alt="image" src="https://github.com/JayanthYadav123/rnn-stock-price-prediction/assets/94836154/a866766e-ea41-4ab1-8086-def2a15018fe">
 
 
